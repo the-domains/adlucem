@@ -1,7 +1,7 @@
 name: AdLucem
 favicon: null
-layout_spectrum: 0.6350164632312953
-typography_spectrum: 0.6742247983347625
+layout_spectrum: 1
+typography_spectrum: 0.9975
 cta:
   domain: null
   bucket: null
