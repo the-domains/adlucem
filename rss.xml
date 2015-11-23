@@ -4,7 +4,7 @@
         <description><![CDATA[AdLucem]]></description>
         <link>https://thegrid.ai/adlucem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 20:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2015 21:30:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/adlucem/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ad Lucem ]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.tumblr.com/blog/adlucem-larp</link>
             <guid isPermaLink="false">24d83347-68a8-4f8b-a86e-893dbd493bd4</guid>
             <pubDate>Mon, 23 Nov 2015 20:15:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://41.media.tumblr.com/73de413c513ba00ab3ebda184f396908/tumblr_nuf56lK6ES1ug5voko1_540.jpg">]]></description>
+            <link>https://thegrid.ai/adlucem/c4275174-60b7-4b6e-8662-3ca1748c6eb0/index.html</link>
+            <guid isPermaLink="false">c4275174-60b7-4b6e-8662-3ca1748c6eb0</guid>
+            <pubDate>Mon, 23 Nov 2015 20:15:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -57,23 +64,9 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://36.media.tumblr.com/370cf092248ed64d121f0f5136e41a89/tumblr_nsyr0ikNPm1sugopko1_540.jpg">]]></description>
-            <link>https://thegrid.ai/adlucem/5e349d13-b946-4456-9815-ca56cf214417/index.html</link>
-            <guid isPermaLink="false">5e349d13-b946-4456-9815-ca56cf214417</guid>
-            <pubDate>Mon, 23 Nov 2015 20:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://40.media.tumblr.com/b6bfbf4590b9e9bfcb66939f63deabb5/tumblr_nhxv3uPptY1tr3d06o1_540.png">]]></description>
             <link>https://thegrid.ai/adlucem/0d717d00-93e3-4142-80c6-b34b4b7fba2c/index.html</link>
             <guid isPermaLink="false">0d717d00-93e3-4142-80c6-b34b4b7fba2c</guid>
-            <pubDate>Mon, 23 Nov 2015 20:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://45.media.tumblr.com/3535978ee9c838defe956d46bb738262/tumblr_nopwzu5Byz1rqdmblo1_400.gif">]]></description>
-            <link>https://thegrid.ai/adlucem/da92583e-5fda-45f7-afe1-984384845d0c/index.html</link>
-            <guid isPermaLink="false">da92583e-5fda-45f7-afe1-984384845d0c</guid>
             <pubDate>Mon, 23 Nov 2015 20:15:39 GMT</pubDate>
         </item>
     </channel>
