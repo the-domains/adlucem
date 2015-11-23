@@ -4,7 +4,7 @@
         <description><![CDATA[AdLucem]]></description>
         <link>https://thegrid.ai/adlucem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 20:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2015 20:16:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/adlucem/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ad Lucem ]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.tumblr.com/blog/adlucem-larp</link>
             <guid isPermaLink="false">24d83347-68a8-4f8b-a86e-893dbd493bd4</guid>
             <pubDate>Mon, 23 Nov 2015 20:15:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://41.media.tumblr.com/05c72f8a8a05e8414d24f0baa7d7006a/tumblr_myfh8pIIe41s8c0ego1_540.jpg">]]></description>
+            <link>https://thegrid.ai/adlucem/e1711822-de92-4435-a7db-6316f26868a2/index.html</link>
+            <guid isPermaLink="false">e1711822-de92-4435-a7db-6316f26868a2</guid>
+            <pubDate>Mon, 23 Nov 2015 20:15:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://45.media.tumblr.com/3535978ee9c838defe956d46bb738262/tumblr_nopwzu5Byz1rqdmblo1_400.gif">]]></description>
             <link>https://thegrid.ai/adlucem/da92583e-5fda-45f7-afe1-984384845d0c/index.html</link>
             <guid isPermaLink="false">da92583e-5fda-45f7-afe1-984384845d0c</guid>
-            <pubDate>Mon, 23 Nov 2015 20:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://49.media.tumblr.com/72af27504846bf23a3e5b1b35ce33729/tumblr_nopwzu5Byz1rqdmblo3_400.gif">]]></description>
-            <link>https://thegrid.ai/adlucem/5fbedbe5-ced8-40bf-b1cd-0be5e6f35043/index.html</link>
-            <guid isPermaLink="false">5fbedbe5-ced8-40bf-b1cd-0be5e6f35043</guid>
             <pubDate>Mon, 23 Nov 2015 20:15:39 GMT</pubDate>
         </item>
     </channel>
