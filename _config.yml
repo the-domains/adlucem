@@ -1,28 +1,40 @@
-name: AdLucem
+layout_spectrum: 0.4659574
 favicon: null
-layout_spectrum: 0.95075
-typography_spectrum: 0.9975
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: AdLucem
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.25
+  lightness: 0.5702128
+  saturation: 0.625
+  rhythmicContrast: 0.75
   brandColors:
     - '#020100'
     - '#464542'
     - '#9a9e8d'
     - '#cec8ba'
     - '#f6efe7'
-  brandStrength: 0.25
-  lightness: 0.375
-  saturation: 0.625
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.9975
