@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Ad Lucem '
-datePublished: '2015-12-26T14:40:37.402Z'
-dateModified: '2015-12-01T07:53:38.783Z'
+datePublished: '2015-12-26T14:44:21.599Z'
+dateModified: '2015-12-26T14:44:12.289Z'
 title: Information
 author: []
 sourcePath: _posts/2015-11-23-information.md
