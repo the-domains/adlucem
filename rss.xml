@@ -4,8 +4,15 @@
         <description><![CDATA[AdLucem]]></description>
         <link>https://thegrid.ai/adlucem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 19:36:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 19:36:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/adlucem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Information]]></title>
+            <description><![CDATA[<article><h1>Information</h1><p>This is a test to see - how it looks if we can sort information in areas - </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38cbddbab760fc3146dff6ef03d1f06dec1c94cd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/adlucem/information/index.html</link>
+            <guid isPermaLink="false">3790f113-f301-4d86-81d3-b86063bbd1da</guid>
+            <pubDate>Sat, 26 Dec 2015 19:36:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FAQ]]></title>
             <description><![CDATA[<article><h1>FAQ</h1><p>FAQ section for AD Lucem </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/afafcd8d1e73874ec6a8f334ffdbb6c601e5e853.jpg"></article>]]></description>
