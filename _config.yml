@@ -1,7 +1,7 @@
 name: AdLucem
 favicon: null
-layout_spectrum: 0.76397
-typography_spectrum: 0.9975
+layout_spectrum: 0.50385
+typography_spectrum: 0.24374
 collections:
   - index:
       navigable: true
@@ -34,7 +34,7 @@ color:
     - '#cec8ba'
     - '#f6efe7'
   brandStrength: 0.875
-  lightness: 0.25
-  saturation: 0.75
+  lightness: 0.375
+  saturation: 0.8125
   rhythmicContrast: 0.25
 purpose: []
