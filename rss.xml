@@ -4,8 +4,15 @@
         <description><![CDATA[AdLucem]]></description>
         <link>https://thegrid.ai/adlucem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 19:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 15:44:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/adlucem/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The sign up form]]></title>
+            <description><![CDATA[<article><h1>The sign up form</h1><p>null</p></article>]]></description>
+            <link>https://thegrid.ai/adlucem/the-sign-up-form/index.html</link>
+            <guid isPermaLink="false">1024c276-4b3a-4dc1-bbd4-fb12e2a99f3d</guid>
+            <pubDate>Sun, 27 Dec 2015 15:44:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Information]]></title>
             <description><![CDATA[<article><h1>Information</h1><p>This is a test to see - how it looks if we can sort information in areas - </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38cbddbab760fc3146dff6ef03d1f06dec1c94cd.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://www.tumblr.com/blog/adlucem-larp</link>
             <guid isPermaLink="false">24d83347-68a8-4f8b-a86e-893dbd493bd4</guid>
             <pubDate>Mon, 23 Nov 2015 20:15:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The sign up form]]></title>
-            <description><![CDATA[<article><h1>The sign up form</h1><p>null</p></article>]]></description>
-            <link>https://thegrid.ai/adlucem/the-sign-up-form/index.html</link>
-            <guid isPermaLink="false">1024c276-4b3a-4dc1-bbd4-fb12e2a99f3d</guid>
-            <pubDate>Sat, 26 Dec 2015 19:35:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
