@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Where we sign up for the larp
-datePublished: '2015-12-26T19:35:41.651Z'
-dateModified: '2015-12-26T19:35:10.480Z'
+datePublished: '2015-12-27T15:44:33.727Z'
+dateModified: '2015-12-27T15:44:22.097Z'
 title: The sign up form
 author: []
+sourcePath: _posts/2015-12-26-the-sign-up-form.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-26-the-sign-up-form.md
-published: true
 url: the-sign-up-form/index.html
 _type: Article
 
