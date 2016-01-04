@@ -4,7 +4,7 @@
         <description><![CDATA[AdLucem]]></description>
         <link>https://thegrid.ai/adlucem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 08:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 08:36:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/adlucem/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The sign up form]]></title>
@@ -68,13 +68,6 @@
             <link>https://thegrid.ai/adlucem/ac68aac9-2657-43e1-92da-cc37d25b2b96/index.html</link>
             <guid isPermaLink="false">ac68aac9-2657-43e1-92da-cc37d25b2b96</guid>
             <pubDate>Mon, 23 Nov 2015 20:15:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://40.media.tumblr.com/b6bfbf4590b9e9bfcb66939f63deabb5/tumblr_nhxv3uPptY1tr3d06o1_540.png">]]></description>
-            <link>https://thegrid.ai/adlucem/0d717d00-93e3-4142-80c6-b34b4b7fba2c/index.html</link>
-            <guid isPermaLink="false">0d717d00-93e3-4142-80c6-b34b4b7fba2c</guid>
-            <pubDate>Mon, 23 Nov 2015 20:15:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
