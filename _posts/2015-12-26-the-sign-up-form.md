@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Where we sign up for the larp
-datePublished: '2016-01-04T08:34:50.487Z'
-dateModified: '2016-01-04T08:34:43.389Z'
+datePublished: '2016-01-04T08:45:17.262Z'
+dateModified: '2016-01-04T08:45:13.788Z'
 title: The sign up form
 author: []
 sourcePath: _posts/2015-12-26-the-sign-up-form.md
