@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Information about characters
-datePublished: '2016-01-04T09:59:53.135Z'
-dateModified: '2016-01-04T09:59:49.786Z'
+datePublished: '2016-01-05T09:10:29.077Z'
+dateModified: '2016-01-05T09:10:23.915Z'
 title: Characters
 author: []
 sourcePath: _posts/2016-01-04-characters.md
@@ -23,7 +23,7 @@ _type: WebPage
 
 ---
 This is a page about characters and character design, all those funny little things that matter so much
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0748cf2d501190439f928905d13961c57108cd56.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b03f7b3a-cdaf-4079-95e4-43eb03b4749b.jpg)
 
 What do we want and expect from you:
 
