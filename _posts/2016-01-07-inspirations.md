@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Inspirations and sources for Ad Lucem
-datePublished: '2016-01-07T10:47:57.449Z'
-dateModified: '2016-01-07T10:47:47.177Z'
-title: 'Inspirations:'
+description: ''
+datePublished: '2016-01-07T11:19:45.054Z'
+dateModified: '2016-01-07T11:19:33.469Z'
+title: Inspirations
 author: []
 authors: []
 publisher:
@@ -22,21 +22,24 @@ url: inspirations/index.html
 _type: WebPage
 
 ---
-# Inspirations:
+# Inspirations
 
-**Tumbler** link goes [here][0]
+Tumbler link goes [here][0]
 
 **Movie list goes here:**
 
-* Bram stockers Dracula (Link)
-* Frankenstein (Link)
-* Hammer\`s haunted house movies  (Link)
+- Dracula (Imdb link) 
 
-**Book list goes here:**
+- Frankenstein (Imdb link) 
 
-* Sherlock Holmes (Wiki Link)
-* Poet that Kai can\`t remember just now (Wiki link)
+- Hammer Haunted house movie (Imdb link) 
 
-**Painters list goes here:**
+**Book list goes here: **
 
-[0]: adlucem-larp.tumblr.com
+* Sherlock Holmes (Wiki Link) 
+* Poet that Kai can\`t remember just now (Wiki link) 
+
+Painters list goes here:
+
+
+[0]: adlucem-larp.tumblr.com/
