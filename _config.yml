@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Ad Lucem LARP
+title: Ad Lucem
 cta:
   domain: null
   bucket: null
