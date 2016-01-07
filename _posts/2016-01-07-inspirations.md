@@ -6,33 +6,31 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-07T11:19:45.054Z'
-dateModified: '2016-01-07T11:19:33.469Z'
+datePublished: '2016-01-07T11:31:26.406Z'
+dateModified: '2016-01-07T11:31:19.096Z'
 title: Inspirations
 author: []
+sourcePath: _posts/2016-01-07-inspirations.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-07-inspirations.md
-published: true
 url: inspirations/index.html
 _type: WebPage
 
 ---
 # Inspirations
 
-Tumbler link goes [here][0]
+You can find our **Tumbler**[here][0]
 
 **Movie list goes here:**
 
-- Dracula (Imdb link) 
-
-- Frankenstein (Imdb link) 
-
-- Hammer Haunted house movie (Imdb link) 
+* Dracula (Imdb link) 
+* Frankenstein (Imdb link) 
+* Hammer Haunted house movie (Imdb link) 
 
 **Book list goes here: **
 
