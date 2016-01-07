@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-07T16:00:37.029Z'
-dateModified: '2016-01-07T16:00:31.271Z'
+datePublished: '2016-01-07T16:05:12.554Z'
+dateModified: '2016-01-07T16:05:07.691Z'
 title: Inspirations
 author: []
 sourcePath: _posts/2016-01-07-inspirations.md
@@ -56,6 +56,7 @@ You can find our **Tumbler **[here][0]
 * Edwardian street photos ([Daily Mail][20])
 * [Portrait][21]
 * James Tissot, [Secret rendevos ][22]
+* Alphonse Maria Mucha ([Collected works][23])
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6783b5d3-f4b1-41e5-9c05-b5cd776333f9.png)
 
 [0]: adlucem-larp.tumblr.com/
@@ -81,3 +82,4 @@ You can find our **Tumbler **[here][0]
 [20]: http://www.dailymail.co.uk/femail/article-2173872/Edwardian-street-style-Astonishing-amateur-images-capture-fashion-women-London-Paris-century-ago.html
 [21]: https://upload.wikimedia.org/wikipedia/commons/3/3a/Signac_-_Portrait_de_F%C3%A9lix_F%C3%A9n%C3%A9on.jpg
 [22]: https://upload.wikimedia.org/wikipedia/commons/5/56/James_Tissot_-_Le_rendez_vous_secret.JPG
+[23]: http://www.alfonsmucha.org/
