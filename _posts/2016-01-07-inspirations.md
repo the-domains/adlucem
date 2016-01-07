@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-07T16:05:12.554Z'
-dateModified: '2016-01-07T16:05:07.691Z'
+datePublished: '2016-01-07T16:09:17.671Z'
+dateModified: '2016-01-07T16:08:51.160Z'
 title: Inspirations
 author: []
 sourcePath: _posts/2016-01-07-inspirations.md
@@ -28,7 +28,7 @@ You can find our **Tumbler **[here][0]
 
 **Movies and Tv Series:**
 
-* Clive Barkers Hellraiser/_For its theme _([Imdb][1]) 
+* Clive Barker\`s Hellraiser/_For its theme _([Imdb][1]) 
 * Coraline ([Imdb][2])
 * House on the Haunted hill ([Imdb][3]) 
 * The League of Extraordinary Gentlemen /_Movie is rather bad, but the world and costumes are great_ ([Imdb][4])
@@ -40,12 +40,12 @@ You can find our **Tumbler **[here][0]
 * The Whip and the body ([Imdb][10])
 * Burn, Witch, Burn /_Sometimes magic is for the good, even if you don´t believe_ ([Imdb][11])
 * The Masque of the red death ([Imdb][12])
-* The Ninth gate ([Imdb][13])
+* The Ninth gate /_The book is much better than the movie, but the latter is visually appealing, with relevant themes_ ([Imdb][13])
 
 **Books and comics: **
 
 * Sherlock Holmes ([Wiki][14]) 
-* Mary Shelly\`s Frankenstein ([Wiki][15])
+* Mary Shelley\`s Frankenstein ([Wiki][15])
 * Clive Barker\`s Books of Blood ([Amazon][16])
 * Strange Case of Dr. Jekyll and Mr. Hyde ([Wiki][17])
 * Sandman: The first story, Men of good fortune, Calliope, Death and Venice, Sandman Midnight Theatre. ([Wiki][18])
@@ -55,7 +55,7 @@ You can find our **Tumbler **[here][0]
 
 * Edwardian street photos ([Daily Mail][20])
 * [Portrait][21]
-* James Tissot, [Secret rendevos ][22]
+* James Tissot, [Secret rendez-vuos ][22]
 * Alphonse Maria Mucha ([Collected works][23])
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6783b5d3-f4b1-41e5-9c05-b5cd776333f9.png)
 
